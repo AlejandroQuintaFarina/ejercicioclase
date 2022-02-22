@@ -1,0 +1,4 @@
+messi,10
+Aspas,6
+Casillas,1
+Mostovoi,7

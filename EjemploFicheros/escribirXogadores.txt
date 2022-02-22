@@ -1,0 +1,3 @@
+nome= aaaaa , dorsal=11
+nome= bbbbb, dorsal=22
+ ccccc,33
